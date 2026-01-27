@@ -1,0 +1,8 @@
+streamlit 
+tensorflow
+pillow
+numpy
+matplotlib
+opencv-python
+
+# pip install -r requirements.txt  --> run this command like me on terminal
